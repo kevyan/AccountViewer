@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">mlappchallenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="number">Number</string>
+    <string name="balance">Balance</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+    <string name="open">Open</string>
+    <string name="description">Description</string>
+    <string name="deposit_amount">Deposit Amount</string>
+
+    <string name="acct_id">ID: %d</string>
+    <string name="acct_name">Name: %s</string>
+    <string name="acct_description">%s</string>
+    <string name="acct_number">Number: %s</string>
+    <string name="acct_balance">Balance: $%.2f</string>
+
+    <string name="txn_id">ID: %d</string>
+    <string name="txn_date">Date: %s</string>
+    <string name="txn_description">%s</string>
+    <string name="txn_deposit_amount">Deposit Amount: %s</string>
+    <string name="txn_withdraw_amount">Withdraw Amount: %s</string>
+    <string name="txn_balance">Balance: $%.2f</string>
+    <string name="date">Date</string>
+</resources>
